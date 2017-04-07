@@ -1,0 +1,37 @@
+.header{
+    background-color: lightblue;
+    font-family: roboto;
+}
+
+.content-wrapper{
+    height: 100px;
+}
+
+.content-wrapper .sidebar-left{
+    background-color: chartreuse;
+    float: left;
+    font-family: roboto;
+    height: 100%;
+    width: 30%;
+}
+.content-wrapper .content-main{
+    background-color: darkslategrey;
+    font-family: roboto;
+    float: left;
+    height: 100%;
+    width: 50%;
+}
+
+.content-wrapper .sidebar-right{
+    background-color: darkslateblue;
+    font-family: roboto;
+    float: right;
+    height: 100%;
+    width: 20%;
+}
+
+.footer{
+    background-color: lightcoral;
+    font-family: roboto;
+    clear: both;
+}
